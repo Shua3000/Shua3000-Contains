@@ -12,7 +12,7 @@ public class Contains {
      */
     public boolean arrayContains(int[] arr, int target){
         for (int element : arr) {
-            if (element == target) {
+             if (element == target) {
                 return true;
             }
         }
